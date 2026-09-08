@@ -1,0 +1,1 @@
+@rpath/onebuttonapp.debug.dylib
